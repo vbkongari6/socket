@@ -1,0 +1,409 @@
+    1  ls
+    2  git config --global user.name "Vijay Bhargav Kongari"
+    3  git config --global user.email "vbkongari6@outlook.com"
+    4  git config --global push.default matching 
+    5  git config --global alias.co checkout
+    6  ls
+    7  cd ..
+    8  ls
+    9  pwd
+   10  cd mingw64
+   11  ls
+   12  history
+   13  history > history.txt
+   14  ls
+   15  cd Desktop/
+   16  ls
+   17  cd ..
+   18  find history.txt 
+   19  mv history.txt Desktop/
+   20  find his
+   21  find histroy.txt
+   22  ls
+   23  cd Desktop/
+   24  clear
+   25  cd node-course/
+   26  ls
+   27  cd web-server/
+   28  ls
+   29  git init
+   30  ls -a
+   31  git status
+   32  git add .
+   33  git rm --cached -r node_modules
+   34  git status
+   35  git status
+   36  git status
+   37  ls
+   38  ls -a
+   39  ls -a
+   40  ls -a
+   41  git status
+   42  ls -a
+   43  git status
+   44  history
+   45  git status
+   46  git add .
+   47  git status
+   48  git commit -a -m "Initialize repo"
+   49  git status
+   50  git commit -a -m "Update language"
+   51  cd ..
+   52  cd web-server/
+   53  ls
+   54  node server.js
+   55  node server.js
+   56  node server.js
+   57  git status
+   58  git add .
+   59  git status
+   60  git commit -a -m 'Refactor middleware'
+   61  ls -al ~/ .ssh
+   62  ls -al ~/.ssh
+   63  ssh-keygen -t rsa -b 4096 -C "vbkongari6@outlook.com"
+   64  ls -al ~/.ssh
+   65   ~/.ssh/id_rsa.pub 
+   66  nano ~/.ssh/id_rsa.pub 
+   67  echo ~/.ssh/id_rsa.pub 
+   68  pico ~/.ssh/id_rsa.pub 
+   69  less ~/.ssh/id_rsa.pub 
+   70  ls
+   71  git remote add origin https://github.com/vbkongari6/web-server.git
+   72  git remote
+   73  git remote -v
+   74  git push -u origin master
+   75  ls -al ~/.ssh
+   76  rm ~/.ssh/id_rsa
+   77  rm ~/.ssh/id_rsa.pub 
+   78  ls -al ~/.ssh
+   79  history 
+   80  ssh-keygen -t rsa -b 4096 -C "vbkongari6@outlook.com"
+   81  ls -al ~/.ssh
+   82  less ~/.ssh/id_rsa.pub 
+   83  git remote add origin https://github.com/vbkongari6/web-server.git
+   84  git push -u origin master
+   85  pwd
+   86  history > /c/Users/VijayBhargavKongari/Desktop/history.txt
+   87  clear
+   88  more ~/.ssh/id_rsa.pub 
+   89  less ~/.ssh/id_rsa.pub 
+   90  heroku login
+   91  cd
+   92  ls
+   93  cd C:\Program Files\Heroku
+   94  pwd
+   95  cd ..
+   96  cd --
+   97  cd ..
+   98  cd ..
+   99  ls
+  100  cd 'Program Files'
+  101  cd Her
+  102  cd Heroku
+  103  cd ..
+  104  cd 'Program Files (x86)'/
+  105  cd Heroku
+  106  cd bin/
+  107  heroku login
+  108  cd
+  109  heroku login
+  110  cd De
+  111  ls
+  112  cd Desktop/
+  113  cd node-course/
+  114  cd web-server/
+  115  ls
+  116  clear
+  117  heroku --version
+  118  heroku login
+  119   $ gem install heroku
+  120  sudo ln -s /usr/local/heroku/bin/heroku /usr/bin/heroku
+  121  gem install heroku
+  122  wget 0- wget https://toolbelt.heroku.com/install-ubuntu.sh | sh
+  123  heroku --version
+  124  which heroku
+  125  gem uninstall heroku --all
+  126  cd Desktop/
+  127  cd Whatever\ regarding\ Git\ and\ GitHub/
+  128  cd copeLA-master
+  129  cd cicopela/
+  130  ls
+  131  git init
+  132  git remote add origin https://github.com/vbkongari6/copeLA.git
+  133  git push -u origin master
+  134  git remote add origin https://github.com/vbkongari6/copeLA-customerside.git
+  135  clear
+  136  cd ..
+  137  cd ..
+  138  ls
+  139  cd copeLA-customerside/
+  140  git init
+  141  git remote add origin https://github.com/vbkongari6/copeLA-customerside.git
+  142  git push -u origin master
+  143  git status
+  144  git add .
+  145  git status
+  146  git commit -am "init repo"
+  147  git push -u origin master
+  148  cd ..
+  149  ;s
+  150  ls
+  151  cd copeLA-ma
+  152  cd copeLA-managementside/
+  153  ls
+  154  git init
+  155  git remote add origin https://github.com/vbkongari6/copeLA-managementside.git
+  156  git push -u origin master
+  157  git status
+  158  git add .
+  159  git status
+  160  git commit -am "init repo"
+  161  git push -u origin master
+  162  cd ..
+  163  cd copeLA
+  164  ls
+  165  git init
+  166  git remote add origin https://github.com/vbkongari6/copeLA.git
+  167  git status
+  168  git add application/controllers/
+  169  git status
+  170  git add application/models/
+  171  git add application/views/
+  172  git status
+  173  git JSimagesCSS
+  174  git add JSimagesCSS/
+  175  git status
+  176  git commit -am "init repo"
+  177  git push
+  178  git push -u origin master
+  179  cd ..
+  180  ls
+  181  cd Games/
+  182  ls
+  183  git init
+  184  git remote add origin https://github.com/vbkongari6/Games.git
+  185  git status
+  186  git add .
+  187  git status
+  188  git push -u origin master
+  189  git commit -am "init repo"
+  190  git push -u origin master
+  191  cd Desktop/node-course/todo-api/
+  192  node server.js
+  193  git status
+  194  git commit -am "add login route and authenticate class method"
+  195  git push
+  196  git push heroku
+  197  git remote add origin https://github.com/vbkongari6/copeLA.git
+  198  npm install jsonwebtoken@5.0.5 --save
+  199  npm install crypto-js@3.1.5 --save
+  200  node server.js
+  201  git status
+  202  git diff
+  203  node server.js
+  204  git commit -am "Add auth token generation to POST /users/login"
+  205  git push
+  206  node server.js
+  207  node server.js
+  208  node server.js
+  209  git status
+  210  git commit -am "add auth middleware and findByToken class method"
+  211  git push
+  212  node playground/basic-sqlite-database.js 
+  213  node playground/basic-sqlite-database.js 
+  214  node playground/basic-sqlite-database.js 
+  215  node playground/basic-sqlite-database.js 
+  216  node playground/basic-sqlite-database.js 
+  217  node playground/basic-sqlite-database.js 
+  218  node playground/basic-sqlite-database.js 
+  219  node playground/basic-sqlite-database.js 
+  220  node server.js
+  221  node server.js
+  222  git status
+  223  git add .
+  224  git status
+  225  git commit -am "adding todo/user association" 
+  226  git push
+  227  node server.js
+  228  node server.js
+  229  node server.js
+  230  git stastus
+  231  git status
+  232  git commit -am "convert CRUD request to use current user todos only"
+  233  git push
+  234  git push heroku
+  235  git status
+  236  node server.js
+  237  node server.js
+  238  node server.js
+  239  node server.js
+  240  node server.js
+  241  node server.js
+  242  node server.js
+  243  node server.js
+  244  node server.js
+  245  gs
+  246  git status
+  247  git add .
+  248  git commit -am "adding DELETE /users/login"
+  249  git push
+  250  git push heroku
+  251  heroku open
+  252  cd ..
+  253  mkdir todo-api-copy
+  254  ls
+  255  cp todo-api/. todo-api-copy/
+  256  cp todo-api/* todo-api-copy/
+  257  cd -
+  258  git status
+  259  git diff
+  260  git status
+  261  git commit
+  262  git add .
+  263  git status
+  264  node server.js
+  265  node server.js
+  266  git status
+  267  git commit -am "removing verbose code"
+  268  git push
+  269  git push heroku
+  270  python
+  271  python print 'Lets catch that eye'
+  272  python
+  273  exit
+  274  cd Desktop/
+  275  cd node-course/
+  276  cd sockets/
+  277  clear
+  278  git init
+  279  npm init
+  280  git remote add origin https://github.com/vbkongari6/socket.git
+  281  git push -u origin master
+  282  git status
+  283  git add .
+  284  git status
+  285  git commit -m "Init repo"
+  286  git push -u origin master
+  287  npm install express@4.13.3 --save
+  288  node server.js
+  289  git status
+  290  git status
+  291  git add .
+  292  git commit -am "setup basic server"
+  293  git push
+  294  heroku create
+  295  git push heroku
+  296  heroku open
+  297  git push heroku
+  298  git push heroku master
+  299  heroku open
+  300  npm install socket.io@1.3.7 --save
+  301  node server.js
+  302  git status
+  303  git add .
+  304  git commit -am "add socket.io on client and server"
+  305  git push
+  306  python
+  307  cd
+  308  cd Desktop/python-django/
+  309  sudo easy_install pip
+  310  python -v
+  311  python -version
+  312  python --version
+  313  python get-pip.py
+  314  sudo easy_install pip
+  315  easy_install pip
+  316  pip install virtualenv
+  317  python -m pip install --upgrade pip
+  318  virtualenv tryDjango
+  319  cd tryDjango/
+  320  ls
+  321  source Scripts/activate
+  322  pip freeze
+  323  ls
+  324  pip install django==1.9.7
+  325  pip freeze
+  326  django-admin startproject tryDjango
+  327  cd tryDjango/
+  328  ls
+  329  python manage.py migrate
+  330  python manage.py createsuperuser
+  331  manage.py createsuperuser
+  332  python manage.py createsuperuser
+  333  ssh -t
+  334  ssh
+  335  cd
+  336  cd Desktop/
+  337  ls
+  338  rmdir -rf python-django/
+  339  rmdir -r python-django/
+  340  rmdir -f python-django/
+  341  rmdir python-django/
+  342  rm -r python-django/
+  343  clear
+  344  cd node-course/
+  345  cd Desktop/node-course/
+  346  ls
+  347  cd sockets/
+  348  ls
+  349  clear
+  350  node server.js 
+  351  git status
+  352  git add .
+  353  git status
+  354  git commit -am "add app.js file"
+  355  git push
+  356  node server.js 
+  357  node server.js 
+  358  git status
+  359  git commit -am "added listner to front-end"
+  360  git push
+  361  node server.js 
+  362  node server.js 
+  363  node server.js 
+  364  node server.js 
+  365  git status
+  366  git commit -am "added custom message event"
+  367  git push
+  368  clear
+  369  node server.js 
+  370  node server.js 
+  371  node server.js 
+  372  node server.js 
+  373  node server.js 
+  374  git status
+  375  git commit -am "add front-end form to submit message"
+  376  git push
+  377  node server.js
+  378  node server.js
+  379  node server.js
+  380  git status
+  381  git commit -am "add message to browser UI"
+  382  git push
+  383  git push heroku
+  384  heroku open
+  385  heroku open
+  386  npm install moment@2.13.0 --save
+  387  node moment-examples.js 
+  388  node moment-examples.js 
+  389  node moment-examples.js 
+  390  node moment-examples.js 
+  391  node moment-examples.js 
+  392  node moment-examples.js 
+  393  node moment-examples.js 
+  394  heroku logs
+  395  node moment-examples.js 
+  396  node moment-examples.js 
+  397  node moment-examples.js 
+  398  node moment-examples.js 
+  399  node moment-examples.js 
+  400  node moment-examples.js 
+  401  node moment-examples.js 
+  402  node moment-examples.js 
+  403  node moment-examples.js 
+  404  git status
+  405  git add .
+  406  git commit -am "add moment example and file"
+  407  git push
+  408  node server.js
+  409  history > history.txt
