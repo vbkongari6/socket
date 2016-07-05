@@ -31,10 +31,6 @@ function sendCurrentUsers (socket) {
 	});
 }
 
-/*io.on('connection', function () {
-	console.log('User connection via socket.io!');
-});*/
-
 io.on('connection', function (socket) {
 	console.log('User connection via socket.io!');
 

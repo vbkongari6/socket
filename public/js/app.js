@@ -25,8 +25,6 @@ socket.on('message', function (message) {
 	$message.append('<p><strong>' + message.name + ' ' + momentTimestamp.local().format('h:mm a') + '</strong></p>');
 	$message.append('<p>' + message.text + '</p>');
 	$messages.append($message);
-
-	/*jQuery('.messages').append('<p><strong>' + momentTimestamp.local().format('h:mm a') + ': </strong>' + message.text + '</p>');*/
 });
 
 // Handle submitting of new message
